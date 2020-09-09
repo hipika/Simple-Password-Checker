@@ -23,4 +23,4 @@ def checker(password):
     else:
         print("You sir, do not have a very strong password.")
 
-check = checker("Hiname1")
+check = checker("Your password here")
